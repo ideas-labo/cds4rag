@@ -8,7 +8,7 @@ for rag. In Proceedings of the 35th International Joint Conference on Artificial
 IJCAI 2026, Bremen, Germany, 15-21 August 2026. ijcai.org, 2026.
 ```
 
-```
+```bibtex
 @inproceedings{DBLP:conf/ijcai/ChenCDS4RAG,
   author       = {Pengzhou Chen and
                   Tao Chen},
