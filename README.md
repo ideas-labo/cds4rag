@@ -2,9 +2,24 @@
 # CDS4RAG: Cyclic Dual-Sequential Hyperparameter Optimization for RAG
 
 This repository contains the data and code for the following paper: 
-> Pengzhou Chen and Tao Chen. Cds4rag: Cyclic dual-sequential hyperparameter optimization
+```
+Pengzhou Chen and Tao Chen. Cds4rag: Cyclic dual-sequential hyperparameter optimization
 for rag. In Proceedings of the 35th International Joint Conference on Artificial Intelligence,
 IJCAI 2026, Bremen, Germany, 15-21 August 2026. ijcai.org, 2026.
+```
+
+```
+@inproceedings{DBLP:conf/ijcai/ChenCDS4RAG,
+  author       = {Pengzhou Chen and
+                  Tao Chen},
+  title        = {CDS4RAG: Cyclic Dual-Sequential Hyperparameter Optimization for RAG},
+  booktitle    = {Proceedings of the 35th International Joint Conference on Artificial
+                  Intelligence, {IJCAI} 2026, Bremen, Germany, 15-21
+                  August 2026},
+  publisher    = {ijcai.org},
+  year         = {2026}
+}
+```
 
 ## Introduction
 Retrieval-Augmented Generation (RAG) is sensitive to the vast hyperparameters of the retriever and generator, yet optimizing them using given queries remains a challenging task due to the complex hyperparameter interactions and expensive evaluation costs. Existing algorithms are ineffective and slow in convergence, since they often treat RAG as a monolithic black box or only optimize partial hyperparameters. In this paper, we propose CDS4RAG, a framework that optimizes the full hyperparameters of RAG using given queries via a new formulation of cyclic dual-sequential problem. CDS4RAG is special in the sense that it distinguishes the hyperparameters of the retriever and generator, optimizing them in turn and in a cyclic manner. Such a paradigm allows us to design fine-grained within-cycle budget provision and expedite the optimization via cross-cycle seeding when optimizing the generator. Importantly, CDS4RAG is an algorithm-agnostic framework that can be paired with diverse general algorithms. Through experiments on four common benchmarks and two backbone LLMs, we reveal that CDS4RAG considerably boosts the vanilla algorithms in 21/24 cases while significantly outperforming state-of-the-art algorithms in all cases with up to 1.54X improvements of generation quality and better speedup.
