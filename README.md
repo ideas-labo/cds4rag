@@ -13,6 +13,7 @@ Retrieval-Augmented Generation (RAG) is sensitive to the vast hyperparameters of
    - Run_util => Core evaluation fuction <br>
    - requirements.txt => Essential requirments need to be installed <br>
    - CDS4RAG.py => The reproduction code of CDS4RAG and is equiped with the overall best tuner HEBO
+   - raw_results => Experimental outputs organized by backbone model, optimization method, and benchmark dataset
 
 ##  <a name='quick-start'></a> Quick Start
 

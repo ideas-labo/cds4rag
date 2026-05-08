@@ -1,0 +1,22 @@
+params,mrr,ndcg,context_similarity,total_time,total_tokens,timed_out,stage,global_iteration,timestamp,lexical_ac,answer_precision,answer_f1,avg_similarity
+"CHUNK_SIZE                  451.000000
+CHUNK_OVERLAP                44.000000
+embedding_temperature         0.254169
+embedding_num_ctx           798.000000
+embedding_repeat_penalty      1.058115
+embedding_top_k              87.000000
+Database_type                 3.000000
+Name: 0, dtype: float64",0.7532460317460319,0.7820778267200956,0.8210288517514488,243.5284779071808,3672,False,1,1,243.5806760787964,,,,
+"CHUNK_SIZE                   857.000000
+CHUNK_OVERLAP                126.000000
+embedding_temperature          0.948727
+embedding_num_ctx           1986.000000
+embedding_repeat_penalty       1.311043
+embedding_top_k               42.000000
+Database_type                  1.000000
+Name: 0, dtype: float64",0.7628571428571429,0.7819292175996473,0.8351985377088939,215.46241426467896,3672,False,1,2,459.0955812931061,,,,
+"{'RETRIEVER_K': 6, 'chat_num_ctx': 4352, 'chat_repeat_penalty': 1.2, 'chat_temperature': 0.5, 'chat_top_k': 55}",,,0.8294892497739077,383.88285636901855,670446,False,2,3,843.0904653072357,0.30494283748033657,0.24346546567129806,0.30494283748033657,0.0
+"{'RETRIEVER_K': 9, 'chat_num_ctx': 711, 'chat_repeat_penalty': 0.9138625641290977, 'chat_temperature': 0.8830514010116396, 'chat_top_k': 41}",,,0.0,1567.9300396442413,0,True,2,4,2411.0206701755524,0.0,,,
+"{'RETRIEVER_K': 2, 'chat_num_ctx': 7541, 'chat_repeat_penalty': 1.052497039555731, 'chat_temperature': 0.9582257095942395, 'chat_top_k': 30}",,,0.8456528742954148,288.1316614151001,248334,False,2,5,2699.255768060684,0.28765694062837366,0.23428742690729673,0.28765694062837366,0.0
+"{'RETRIEVER_K': 1, 'chat_num_ctx': 2762, 'chat_repeat_penalty': 0.9408959600103882, 'chat_temperature': 0.09029910407499786, 'chat_top_k': 41}",,,0.8436734138839108,611.5299971103668,187393,False,2,6,3310.8839066028595,0.2693060379202321,0.23082557060109074,0.2693060379202321,0.0
+"{'RETRIEVER_K': 8, 'chat_num_ctx': 6642, 'chat_repeat_penalty': 1.4835639947854444, 'chat_temperature': 0.1375097695364612, 'chat_top_k': 94}",,,0.8315536549066438,338.269681930542,865568,False,2,7,3649.2636806964874,0.25968992209505154,0.19240701396839482,0.25968992209505154,0.0

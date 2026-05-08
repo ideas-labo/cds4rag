@@ -1,0 +1,20 @@
+params,mrr,ndcg,context_similarity,total_time,total_tokens,timed_out,stage,global_iteration,timestamp,lexical_ac,answer_precision,answer_f1,avg_similarity
+"CHUNK_SIZE                   580.000000
+CHUNK_OVERLAP                112.000000
+embedding_temperature          0.609736
+embedding_num_ctx           1994.000000
+embedding_repeat_penalty       1.299717
+embedding_top_k               83.000000
+Database_type                  2.000000
+Name: 0, dtype: float64",0.006666666666666666,0.009871369406794797,0.28969263847206234,110.27520060539246,2794,False,1,1,110.33008074760437,,,,
+"CHUNK_SIZE                  743.000000
+CHUNK_OVERLAP                41.000000
+embedding_temperature         0.172089
+embedding_num_ctx           694.000000
+embedding_repeat_penalty      1.117100
+embedding_top_k              52.000000
+Database_type                 2.000000
+Name: 0, dtype: float64",0.006666666666666666,0.009871369406794797,0.2897104938851621,67.95539140701294,2794,False,1,2,178.34058213233948,,,,
+"{'RETRIEVER_K': 6, 'chat_num_ctx': 4352, 'chat_repeat_penalty': 1.2, 'chat_temperature': 0.5, 'chat_top_k': 55}",,,0.2933863057580637,91.47746396064758,340870,False,2,3,269.9261336326599,0.23670642700733965,0.25584879102654123,0.23670642700733965,0.0
+"{'RETRIEVER_K': 1, 'chat_num_ctx': 1574, 'chat_repeat_penalty': 0.909022778981046, 'chat_temperature': 0.8686738971030776, 'chat_top_k': 15}",,,0.30172961129164966,436.2886493206024,137562,False,2,4,706.3184998035431,0.22985349957542275,0.35749444933233837,0.22985349957542275,0.0
+"{'RETRIEVER_K': 10, 'chat_num_ctx': 7536, 'chat_repeat_penalty': 0.9199905226277776, 'chat_temperature': 0.5589608989296322, 'chat_top_k': 100}",,,0.0,9899.837660074234,0,True,2,5,10606.156436920166,0.0,,,

@@ -1,0 +1,121 @@
+params,lexical_ac,mrr,ndcg,context_similarity,answer_precision,answer_f1,avg_similarity,total_time,timed_out,total_tokens
+"Configuration(values={
+  'CHUNK_OVERLAP': 80,
+  'CHUNK_SIZE': 640,
+  'Database_type': 1,
+  'RETRIEVER_K': 6,
+  'chat_num_ctx': 4352,
+  'chat_repeat_penalty': 1.2,
+  'chat_temperature': 0.5,
+  'chat_top_k': 55,
+  'embedding_num_ctx': 1280,
+  'embedding_repeat_penalty': 1.2,
+  'embedding_temperature': 0.5,
+  'embedding_top_k': 55,
+})
+",0.23322421207162097,0.0,0.0,0.22871730221117192,0.18824766432535844,0.23322421207162097,0,464.9817395210266,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 34,
+  'CHUNK_SIZE': 850,
+  'Database_type': 3,
+  'RETRIEVER_K': 6,
+  'chat_num_ctx': 6282,
+  'chat_repeat_penalty': 1.0266093924568556,
+  'chat_temperature': 0.9948420379526944,
+  'chat_top_k': 94,
+  'embedding_num_ctx': 671,
+  'embedding_repeat_penalty': 0.9521611811753453,
+  'embedding_temperature': 0.9683908469446544,
+  'embedding_top_k': 80,
+})
+",0.23262837026869146,0.0,0.0,0.21796348024484477,0.20075729985180626,0.23262837026869146,0,473.00577664375305,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 117,
+  'CHUNK_SIZE': 955,
+  'Database_type': 3,
+  'RETRIEVER_K': 9,
+  'chat_num_ctx': 3665,
+  'chat_repeat_penalty': 1.4166067742134674,
+  'chat_temperature': 0.04046061296322556,
+  'chat_top_k': 26,
+  'embedding_num_ctx': 642,
+  'embedding_repeat_penalty': 1.0828622481171677,
+  'embedding_temperature': 0.09226022426992964,
+  'embedding_top_k': 94,
+})
+",0.20137265341460384,0.0,0.0,0.20475623352330494,0.14600821386720034,0.20137265341460384,0,209.31764459609985,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 59,
+  'CHUNK_SIZE': 879,
+  'Database_type': 3,
+  'RETRIEVER_K': 1,
+  'chat_num_ctx': 851,
+  'chat_repeat_penalty': 1.4636149090788475,
+  'chat_temperature': 0.5673466472383533,
+  'chat_top_k': 97,
+  'embedding_num_ctx': 1757,
+  'embedding_repeat_penalty': 1.4649252446496441,
+  'embedding_temperature': 0.4362941686131785,
+  'embedding_top_k': 45,
+})
+",0.1885714735023563,0.0,0.0,0.20018531021604605,0.14834346640413443,0.1885714735023563,0,467.08246421813965,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 40,
+  'CHUNK_SIZE': 873,
+  'Database_type': 2,
+  'RETRIEVER_K': 1,
+  'chat_num_ctx': 1546,
+  'chat_repeat_penalty': 0.9215968968166066,
+  'chat_temperature': 0.9092553588887221,
+  'chat_top_k': 53,
+  'embedding_num_ctx': 1857,
+  'embedding_repeat_penalty': 1.1411889972223566,
+  'embedding_temperature': 0.9116760764096216,
+  'embedding_top_k': 30,
+})
+",0.18947941674076038,0.0,0.0,0.20098719492112715,0.16401275198887447,0.18947941674076038,0,660.4520928859711,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 80,
+  'CHUNK_SIZE': 640,
+  'Database_type': 1,
+  'RETRIEVER_K': 6,
+  'chat_num_ctx': 4352,
+  'chat_repeat_penalty': 1.2,
+  'chat_temperature': 0.5,
+  'chat_top_k': 51,
+  'embedding_num_ctx': 1280,
+  'embedding_repeat_penalty': 1.2031759980512526,
+  'embedding_temperature': 0.35601682336597007,
+  'embedding_top_k': 55,
+})
+",0.23322421207162097,0.0,0.0,0.22871730221117192,0.18824766432535844,0.23322421207162097,0,465.1389274597168,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 80,
+  'CHUNK_SIZE': 640,
+  'Database_type': 1,
+  'RETRIEVER_K': 6,
+  'chat_num_ctx': 5470,
+  'chat_repeat_penalty': 1.2,
+  'chat_temperature': 0.5514911907576754,
+  'chat_top_k': 35,
+  'embedding_num_ctx': 1280,
+  'embedding_repeat_penalty': 1.2283406097108527,
+  'embedding_temperature': 0.5,
+  'embedding_top_k': 59,
+})
+",0.23352956326037577,0.0,0.0,0.22871730221117192,0.19592437917491984,0.23352956326037577,0,478.4025936126709,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 80,
+  'CHUNK_SIZE': 713,
+  'Database_type': 1,
+  'RETRIEVER_K': 6,
+  'chat_num_ctx': 6205,
+  'chat_repeat_penalty': 1.2,
+  'chat_temperature': 0.5237811665773204,
+  'chat_top_k': 51,
+  'embedding_num_ctx': 1064,
+  'embedding_repeat_penalty': 1.1896562753139561,
+  'embedding_temperature': 0.4412076252217604,
+  'embedding_top_k': 75,
+})
+",0.2382400180902144,0.0,0.0,0.2239819116812449,0.2025187666882606,0.2382400180902144,0,502.82827973365784,False,0

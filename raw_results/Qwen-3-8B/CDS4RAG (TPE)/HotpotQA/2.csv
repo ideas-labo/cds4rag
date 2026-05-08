@@ -1,0 +1,48 @@
+params,mrr,ndcg,context_similarity,total_time,total_tokens,timed_out,stage,global_iteration,timestamp,lexical_ac,answer_precision,answer_f1,avg_similarity
+"CHUNK_SIZE                   580.000000
+CHUNK_OVERLAP                112.000000
+embedding_temperature          0.609736
+embedding_num_ctx           1994.000000
+embedding_repeat_penalty       1.299717
+embedding_top_k               83.000000
+Database_type                  2.000000
+Name: 0, dtype: float64",0.01,0.009197207891481875,0.08194175146612086,41.5677764415741,4878,False,1,1,41.629058837890625,,,,
+"CHUNK_SIZE                  743.000000
+CHUNK_OVERLAP                41.000000
+embedding_temperature         0.172089
+embedding_num_ctx           694.000000
+embedding_repeat_penalty      1.117100
+embedding_top_k              52.000000
+Database_type                 2.000000
+Name: 0, dtype: float64",0.01,0.009197207891481875,0.08160379664001677,29.256126642227173,4878,False,1,2,70.95197987556458,,,,
+"CHUNK_SIZE                   947.000000
+CHUNK_OVERLAP                102.000000
+embedding_temperature          0.839603
+embedding_num_ctx           1351.000000
+embedding_repeat_penalty       1.011141
+embedding_top_k               29.000000
+Database_type                  1.000000
+Name: 0, dtype: float64",0.0016666666666666666,0.003562071871080222,0.039092785094451916,36.48896265029907,4878,False,1,3,107.5018744468689,,,,
+"CHUNK_SIZE                   400.000000
+CHUNK_OVERLAP                 76.000000
+embedding_temperature          0.402001
+embedding_num_ctx           1104.000000
+embedding_repeat_penalty       1.409192
+embedding_top_k               61.000000
+Database_type                  3.000000
+Name: 0, dtype: float64",0.0,0.0,0.06941074107124,46.864171266555786,4878,False,1,4,154.42796778678894,,,,
+"CHUNK_SIZE                  315.000000
+CHUNK_OVERLAP                89.000000
+embedding_temperature         0.030787
+embedding_num_ctx           960.000000
+embedding_repeat_penalty      1.440642
+embedding_top_k             100.000000
+Database_type                 1.000000
+Name: 0, dtype: float64",0.01,0.01,0.10543800542541519,51.22729849815369,4878,False,1,5,205.71452569961548,,,,
+"{'RETRIEVER_K': 2, 'chat_temperature': 0.6243214020242429, 'chat_num_ctx': 1926, 'chat_repeat_penalty': 0.9013998599726283, 'chat_top_k': 23}",,,0.16637674892307394,366.444039106369,112493,False,2,6,572.2691042423248,0.6424982311202234,0.6353250930356193,0.6424982311202234,0.0
+"{'RETRIEVER_K': 5, 'chat_temperature': 0.2503555397657634, 'chat_num_ctx': 6563, 'chat_repeat_penalty': 1.3029258477216954, 'chat_top_k': 32}",,,0.12962777566454955,351.23545694351196,246862,False,2,7,923.6110193729401,0.7011428571428572,0.6953333333333334,0.7011428571428572,0.0
+"{'RETRIEVER_K': 6, 'chat_temperature': 0.771010368711789, 'chat_num_ctx': 2068, 'chat_repeat_penalty': 1.362576512803919, 'chat_top_k': 29}",,,0.12258983460350176,565.1856155395508,294642,False,2,8,1488.9034390449524,0.3285511241848087,0.3336100585238516,0.3285511241848087,0.0
+"{'RETRIEVER_K': 3, 'chat_temperature': 0.10338729825307813, 'chat_num_ctx': 732, 'chat_repeat_penalty': 1.10148478480009, 'chat_top_k': 32}",,,0.1511222962779294,657.7384698390961,163917,False,2,9,2146.748071193695,0.21740414732079086,0.20456396966275642,0.21740414732079086,0.0
+"{'RETRIEVER_K': 7, 'chat_temperature': 0.6734318718833449, 'chat_num_ctx': 1319, 'chat_repeat_penalty': 0.9917264317482135, 'chat_top_k': 75}",,,0.11646850735588478,494.74112820625305,341613,False,2,10,2641.5954101085663,0.2997979226027899,0.2914701343366383,0.2997979226027899,0.0
+"{'RETRIEVER_K': 9, 'chat_temperature': 0.4401554789989519, 'chat_num_ctx': 3147, 'chat_repeat_penalty': 1.280835829100786, 'chat_top_k': 84}",,,0.10841585562669445,723.2258698940277,429388,False,2,11,3364.928813457489,0.3368136081624113,0.3321447986152454,0.3368136081624113,0.0
+"{'RETRIEVER_K': 9, 'chat_temperature': 0.5815219605306057, 'chat_num_ctx': 4048, 'chat_repeat_penalty': 1.3988930977915408, 'chat_top_k': 91}",,,0.0,1009.384702205658,0,True,2,12,4374.315045595169,0.0,,,

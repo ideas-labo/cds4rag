@@ -1,0 +1,41 @@
+params,mrr,ndcg,context_similarity,total_time,total_tokens,timed_out,stage,global_iteration,timestamp,lexical_ac,answer_precision,answer_f1,avg_similarity
+"CHUNK_SIZE                   580.000000
+CHUNK_OVERLAP                112.000000
+embedding_temperature          0.609736
+embedding_num_ctx           1994.000000
+embedding_repeat_penalty       1.299717
+embedding_top_k               83.000000
+Database_type                  2.000000
+Name: 0, dtype: float64",0.01,0.009197207891481875,0.09904588386087358,42.44167613983154,4878,False,1,1,42.50377058982849,,,,
+"CHUNK_SIZE                  743.000000
+CHUNK_OVERLAP                41.000000
+embedding_temperature         0.172089
+embedding_num_ctx           694.000000
+embedding_repeat_penalty      1.117100
+embedding_top_k              52.000000
+Database_type                 2.000000
+Name: 0, dtype: float64",0.01,0.009197207891481875,0.09904588386087358,29.144259691238403,4878,False,1,2,71.70964550971985,,,,
+"CHUNK_SIZE                   947.000000
+CHUNK_OVERLAP                102.000000
+embedding_temperature          0.839603
+embedding_num_ctx           1351.000000
+embedding_repeat_penalty       1.011141
+embedding_top_k               29.000000
+Database_type                  1.000000
+Name: 0, dtype: float64",0.0016666666666666666,0.003562071871080222,0.039092785094451916,37.239803075790405,4878,False,1,3,109.00865197181702,,,,
+"CHUNK_SIZE                   400.000000
+CHUNK_OVERLAP                 76.000000
+embedding_temperature          0.402001
+embedding_num_ctx           1104.000000
+embedding_repeat_penalty       1.409192
+embedding_top_k               61.000000
+Database_type                  3.000000
+Name: 0, dtype: float64",0.0,0.0,0.06941074107124,47.37248182296753,4878,False,1,4,156.44188499450684,,,,
+"{'RETRIEVER_K': 5.0, 'chat_temperature': 0.8337422013282776, 'chat_num_ctx': 5195.0, 'chat_repeat_penalty': 1.4789583683013916, 'chat_top_k': 70.0}",,,0.12110249900202812,288.2973802089691,261045,False,2,5,444.84591269493103,0.6430119047619047,0.6473333333333333,0.6430119047619047,0.0
+"{'RETRIEVER_K': 10.0, 'chat_temperature': 0.1487947404384613, 'chat_num_ctx': 1954.0, 'chat_repeat_penalty': 0.9312440156936646, 'chat_top_k': 52.0}",,,0.09904588386087358,720.3118000030518,502331,False,2,6,1165.2647252082825,0.2838458544392355,0.28517291263490985,0.2838458544392355,0.0
+"{'RETRIEVER_K': 7.0, 'chat_temperature': 0.6202930808067322, 'chat_num_ctx': 6712.0, 'chat_repeat_penalty': 1.2942121028900146, 'chat_top_k': 20.0}",,,0.10930261450885681,316.28526282310486,357190,False,2,7,1481.6613907814026,0.6790396825396825,0.6781904761904761,0.6790396825396825,0.0
+"{'RETRIEVER_K': 3.0, 'chat_temperature': 0.4284180700778961, 'chat_num_ctx': 3472.0, 'chat_repeat_penalty': 1.0930981636047363, 'chat_top_k': 80.0}",,,0.1426642712955151,492.7806980609894,164726,False,2,8,1974.5486915111542,0.663198717948718,0.6594404761904762,0.663198717948718,0.0
+"{'RETRIEVER_K': 2.0, 'chat_temperature': 0.6801093220710754, 'chat_num_ctx': 1079.0, 'chat_repeat_penalty': 1.1447457075119019, 'chat_top_k': 89.0}",,,0.1566885427977497,731.8677849769592,123690,False,2,9,2706.5223813056946,0.3412842006832843,0.3316934635047143,0.3412842006832843,0.0
+"{'RETRIEVER_K': 6.0, 'chat_temperature': 0.6021514637451356, 'chat_num_ctx': 6553.0, 'chat_repeat_penalty': 1.2532624547221478, 'chat_top_k': 22.0}",,,0.11444507135000027,338.1709702014923,308938,False,2,10,3045.711276292801,0.6516911976911977,0.6526019536019535,0.6516911976911977,0.0
+"{'RETRIEVER_K': 7.0, 'chat_temperature': 0.6219628855150734, 'chat_num_ctx': 6727.0, 'chat_repeat_penalty': 1.3019128959528392, 'chat_top_k': 24.0}",,,0.10930261450885681,313.26431941986084,357196,False,2,11,3359.9780435562134,0.6790396825396825,0.6781904761904761,0.6790396825396825,0.0
+"{'RETRIEVER_K': 8.0, 'chat_temperature': 0.7054650829105846, 'chat_num_ctx': 6044.0, 'chat_repeat_penalty': 1.4709274500743317, 'chat_top_k': 12.0}",,,0.10538997108806428,386.650915145874,412197,False,2,12,3747.643983364105,0.6827467532467532,0.6809829059829059,0.6827467532467532,0.0

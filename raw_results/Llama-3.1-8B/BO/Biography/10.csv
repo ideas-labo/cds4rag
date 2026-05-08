@@ -1,0 +1,166 @@
+params,lexical_ac,mrr,ndcg,context_similarity,answer_precision,answer_f1,avg_similarity,total_time,timed_out,total_tokens
+"Configuration(values={
+  'CHUNK_OVERLAP': 80,
+  'CHUNK_SIZE': 640,
+  'Database_type': 1,
+  'RETRIEVER_K': 6,
+  'chat_num_ctx': 4352,
+  'chat_repeat_penalty': 1.2,
+  'chat_temperature': 0.5,
+  'chat_top_k': 55,
+  'embedding_num_ctx': 1280,
+  'embedding_repeat_penalty': 1.2,
+  'embedding_temperature': 0.5,
+  'embedding_top_k': 55,
+})
+",0.2886862166293202,0.7171666666666667,0.7342101176075608,0.821555847956446,0.23397848849274616,0.2886862166293202,0,300.8096377849579,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 80,
+  'CHUNK_SIZE': 840,
+  'Database_type': 3,
+  'RETRIEVER_K': 1,
+  'chat_num_ctx': 6630,
+  'chat_repeat_penalty': 1.4792564598419053,
+  'chat_temperature': 0.8453050860311231,
+  'chat_top_k': 42,
+  'embedding_num_ctx': 512,
+  'embedding_repeat_penalty': 0.9703335241742849,
+  'embedding_temperature': 0.1800446900051269,
+  'embedding_top_k': 100,
+})
+",0.24928400654910693,0.93,0.93,0.9743724546018844,0.2099716231580605,0.24928400654910693,0,145.32335925102234,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 42,
+  'CHUNK_SIZE': 822,
+  'Database_type': 3,
+  'RETRIEVER_K': 10,
+  'chat_num_ctx': 4416,
+  'chat_repeat_penalty': 1.059269538958336,
+  'chat_temperature': 0.03005666958141784,
+  'chat_top_k': 97,
+  'embedding_num_ctx': 1966,
+  'embedding_repeat_penalty': 1.3722125166174082,
+  'embedding_temperature': 0.2620416996487708,
+  'embedding_top_k': 80,
+})
+",0.3415791960800006,0.4479682539682541,0.6135930022723516,0.7835971909282695,0.29082090512473635,0.3415791960800006,0,314.7523922920227,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 90,
+  'CHUNK_SIZE': 845,
+  'Database_type': 3,
+  'RETRIEVER_K': 7,
+  'chat_num_ctx': 558,
+  'chat_repeat_penalty': 1.1498267612097595,
+  'chat_temperature': 0.6702996254216994,
+  'chat_top_k': 17,
+  'embedding_num_ctx': 1450,
+  'embedding_repeat_penalty': 1.3713498209177981,
+  'embedding_temperature': 0.7870585459429397,
+  'embedding_top_k': 11,
+})
+",0.2515467543020249,0.7325952380952381,0.7528891964657055,0.8171294677749958,0.26065467125974506,0.2515467543020249,0,250.94497394561768,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 32,
+  'CHUNK_SIZE': 887,
+  'Database_type': 2,
+  'RETRIEVER_K': 8,
+  'chat_num_ctx': 665,
+  'chat_repeat_penalty': 1.3446562394859682,
+  'chat_temperature': 0.8903076445532687,
+  'chat_top_k': 83,
+  'embedding_num_ctx': 2043,
+  'embedding_repeat_penalty': 1.40679063591724,
+  'embedding_temperature': 0.06370595821035363,
+  'embedding_top_k': 15,
+})
+",0.24357294015856393,0.9591666666666667,0.9616242894457114,0.9711232611490217,0.21142599082573757,0.24357294015856393,0,240.8073854446411,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 44,
+  'CHUNK_SIZE': 784,
+  'Database_type': 3,
+  'RETRIEVER_K': 10,
+  'chat_num_ctx': 5246,
+  'chat_repeat_penalty': 1.0579079877307835,
+  'chat_temperature': 0.01227603670883716,
+  'chat_top_k': 100,
+  'embedding_num_ctx': 1965,
+  'embedding_repeat_penalty': 1.3498572490487577,
+  'embedding_temperature': 0.30104336110917146,
+  'embedding_top_k': 84,
+})
+",0.3375311003413925,0.483484126984127,0.6429723920465623,0.7923147287021658,0.28432874474202957,0.3375311003413925,0,334.8172106742859,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 32,
+  'CHUNK_SIZE': 725,
+  'Database_type': 3,
+  'RETRIEVER_K': 10,
+  'chat_num_ctx': 2289,
+  'chat_repeat_penalty': 0.9040035857273112,
+  'chat_temperature': 0.040300840914436295,
+  'chat_top_k': 96,
+  'embedding_num_ctx': 1861,
+  'embedding_repeat_penalty': 1.438634806024677,
+  'embedding_temperature': 0.027198743209403665,
+  'embedding_top_k': 67,
+})
+",0.28893468327069444,0.7311904761904762,0.7425210441888594,0.8068207678708949,0.32640912386861937,0.28893468327069444,0,990.7784285545349,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 39,
+  'CHUNK_SIZE': 918,
+  'Database_type': 3,
+  'RETRIEVER_K': 10,
+  'chat_num_ctx': 2932,
+  'chat_repeat_penalty': 1.0997050857283461,
+  'chat_temperature': 0.04869929123190749,
+  'chat_top_k': 95,
+  'embedding_num_ctx': 1997,
+  'embedding_repeat_penalty': 1.405556819090529,
+  'embedding_temperature': 0.2074544526561289,
+  'embedding_top_k': 80,
+})
+",0.33302564390777856,0.47833333333333333,0.6423299916465026,0.7828127922830813,0.28198441787314826,0.33302564390777856,0,266.0659906864166,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 41,
+  'CHUNK_SIZE': 894,
+  'Database_type': 3,
+  'RETRIEVER_K': 10,
+  'chat_num_ctx': 4865,
+  'chat_repeat_penalty': 1.056009995291798,
+  'chat_temperature': 0.07244107510722547,
+  'chat_top_k': 72,
+  'embedding_num_ctx': 1963,
+  'embedding_repeat_penalty': 1.38518011552781,
+  'embedding_temperature': 0.3250084735283788,
+  'embedding_top_k': 50,
+})
+",0.33249855948122226,0.6710674603174606,0.7234908126530749,0.8208502854389116,0.2922435850888333,0.33249855948122226,0,309.97230792045593,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 39,
+  'CHUNK_SIZE': 852,
+  'Database_type': 1,
+  'RETRIEVER_K': 10,
+  'chat_num_ctx': 3211,
+  'chat_repeat_penalty': 1.056009995291798,
+  'chat_temperature': 0.04633784284423514,
+  'chat_top_k': 99,
+  'embedding_num_ctx': 1959,
+  'embedding_repeat_penalty': 1.3930379385505236,
+  'embedding_temperature': 0.18472670729597593,
+  'embedding_top_k': 80,
+})
+",0.3296844173390363,0.4865277777777778,0.626328256733329,0.7651527657213021,0.28236963058477726,0.3296844173390363,0,290.30940794944763,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 98,
+  'CHUNK_SIZE': 487,
+  'Database_type': 3,
+  'RETRIEVER_K': 6,
+  'chat_num_ctx': 3520,
+  'chat_repeat_penalty': 1.0068331583940147,
+  'chat_temperature': 0.5504535088344209,
+  'chat_top_k': 11,
+  'embedding_num_ctx': 1655,
+  'embedding_repeat_penalty': 1.3560867061578872,
+  'embedding_temperature': 0.8031760631470136,
+  'embedding_top_k': 18,
+})
+",0.30375603595895856,0.7678333333333331,0.7841361848180876,0.8234236892471081,0.2654502591814996,0.30375603595895856,0,348.9924159049988,False,0

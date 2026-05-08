@@ -1,0 +1,226 @@
+params,lexical_ac,mrr,ndcg,context_similarity,answer_precision,answer_f1,avg_similarity,total_time,timed_out,total_tokens
+"Configuration(values={
+  'CHUNK_OVERLAP': 80,
+  'CHUNK_SIZE': 640,
+  'Database_type': 1,
+  'RETRIEVER_K': 6,
+  'chat_num_ctx': 4352,
+  'chat_repeat_penalty': 1.2,
+  'chat_temperature': 0.5,
+  'chat_top_k': 55,
+  'embedding_num_ctx': 1280,
+  'embedding_repeat_penalty': 1.2,
+  'embedding_temperature': 0.5,
+  'embedding_top_k': 55,
+})
+",0.24357733032894405,0.0,0.0,0.22871730221117192,0.2785544089983404,0.24357733032894405,0.0,214.43303036689758,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 48,
+  'CHUNK_SIZE': 264,
+  'Database_type': 3,
+  'RETRIEVER_K': 6,
+  'chat_num_ctx': 6878,
+  'chat_repeat_penalty': 1.0807191441452855,
+  'chat_temperature': 0.1887572758219832,
+  'chat_top_k': 47,
+  'embedding_num_ctx': 1975,
+  'embedding_repeat_penalty': 1.146605850434595,
+  'embedding_temperature': 0.906667318512813,
+  'embedding_top_k': 11,
+})
+",0.26278431049879336,0.131,0.15273858749515637,0.3884308812728493,0.3421346634469117,0.26278431049879336,0.0,183.32977437973022,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 110,
+  'CHUNK_SIZE': 687,
+  'Database_type': 3,
+  'RETRIEVER_K': 9,
+  'chat_num_ctx': 1579,
+  'chat_repeat_penalty': 1.2789691724461514,
+  'chat_temperature': 0.8103324921376048,
+  'chat_top_k': 77,
+  'embedding_num_ctx': 680,
+  'embedding_repeat_penalty': 1.2457474243503306,
+  'embedding_temperature': 0.20491929446578894,
+  'embedding_top_k': 99,
+})
+",0.22605374999581096,0.0,0.0,0.2293979169810012,0.21282801142837954,0.22605374999581096,0.0,138.92602443695068,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 76,
+  'CHUNK_SIZE': 410,
+  'Database_type': 2,
+  'RETRIEVER_K': 1,
+  'chat_num_ctx': 7286,
+  'chat_repeat_penalty': 1.4009613856785266,
+  'chat_temperature': 0.0009241610148728041,
+  'chat_top_k': 74,
+  'embedding_num_ctx': 587,
+  'embedding_repeat_penalty': 1.4632348189713553,
+  'embedding_temperature': 0.9882397070588053,
+  'embedding_top_k': 87,
+})
+",0.24743262655948836,0.0,0.0,0.26622077380556913,0.2283830735547766,0.24743262655948836,0.0,175.39153218269348,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 120,
+  'CHUNK_SIZE': 500,
+  'Database_type': 2,
+  'RETRIEVER_K': 1,
+  'chat_num_ctx': 2339,
+  'chat_repeat_penalty': 0.921023116838942,
+  'chat_temperature': 0.003178086957427495,
+  'chat_top_k': 17,
+  'embedding_num_ctx': 1001,
+  'embedding_repeat_penalty': 0.9171854001788949,
+  'embedding_temperature': 0.45293540455937464,
+  'embedding_top_k': 19,
+})
+",0.25288831796873806,0.0,0.0,0.271764724309014,0.4438812439771789,0.25288831796873806,0.0,726.9583249092102,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 69,
+  'CHUNK_SIZE': 279,
+  'Database_type': 3,
+  'RETRIEVER_K': 4,
+  'chat_num_ctx': 6033,
+  'chat_repeat_penalty': 1.0270309444613535,
+  'chat_temperature': 0.04387983939391765,
+  'chat_top_k': 29,
+  'embedding_num_ctx': 1921,
+  'embedding_repeat_penalty': 1.078007330087043,
+  'embedding_temperature': 0.9178099681969293,
+  'embedding_top_k': 10,
+})
+",0.28178732551879326,0.10833333333333334,0.1186728956962662,0.39112626926888255,0.40866906446206686,0.28178732551879326,0.0,176.04541516304016,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 61,
+  'CHUNK_SIZE': 273,
+  'Database_type': 3,
+  'RETRIEVER_K': 3,
+  'chat_num_ctx': 7142,
+  'chat_repeat_penalty': 0.9883571642085788,
+  'chat_temperature': 0.00818445501498367,
+  'chat_top_k': 22,
+  'embedding_num_ctx': 2043,
+  'embedding_repeat_penalty': 1.0610799098059098,
+  'embedding_temperature': 0.9826553120706834,
+  'embedding_top_k': 10,
+})
+",0.2598527471777633,0.09333333333333334,0.10148712314377457,0.4098894771005082,0.4054753515163297,0.2598527471777633,0.0,244.516770362854,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 94,
+  'CHUNK_SIZE': 773,
+  'Database_type': 1,
+  'RETRIEVER_K': 7,
+  'chat_num_ctx': 7864,
+  'chat_repeat_penalty': 1.3593780159698658,
+  'chat_temperature': 0.6209309662502185,
+  'chat_top_k': 36,
+  'embedding_num_ctx': 1850,
+  'embedding_repeat_penalty': 0.9670673363597344,
+  'embedding_temperature': 0.6546357286696203,
+  'embedding_top_k': 58,
+})
+",0.2372384176783061,0.0,0.0,0.21836473741084897,0.24129601837747064,0.2372384176783061,0.0,261.82314562797546,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 72,
+  'CHUNK_SIZE': 353,
+  'Database_type': 3,
+  'RETRIEVER_K': 3,
+  'chat_num_ctx': 5678,
+  'chat_repeat_penalty': 1.0312292329546306,
+  'chat_temperature': 0.047071838247607634,
+  'chat_top_k': 24,
+  'embedding_num_ctx': 1916,
+  'embedding_repeat_penalty': 1.0761991298669018,
+  'embedding_temperature': 0.9217885002240696,
+  'embedding_top_k': 10,
+})
+",0.252901084585276,0.003333333333333333,0.005,0.29751913544757747,0.38591903391679094,0.252901084585276,0.0,194.8801290988922,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 70,
+  'CHUNK_SIZE': 279,
+  'Database_type': 3,
+  'RETRIEVER_K': 4,
+  'chat_num_ctx': 6033,
+  'chat_repeat_penalty': 1.0270309444613535,
+  'chat_temperature': 0.04387983939391765,
+  'chat_top_k': 29,
+  'embedding_num_ctx': 1921,
+  'embedding_repeat_penalty': 1.078007330087043,
+  'embedding_temperature': 0.9178099681969293,
+  'embedding_top_k': 10,
+})
+",0.2780566630863131,0.10083333333333334,0.10792029674220181,0.3903459324991789,0.4035787724295405,0.2780566630863131,0.0,181.97515654563904,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 69,
+  'CHUNK_SIZE': 279,
+  'Database_type': 3,
+  'RETRIEVER_K': 4,
+  'chat_num_ctx': 6937,
+  'chat_repeat_penalty': 1.0270309444613535,
+  'chat_temperature': 0.1098103354303277,
+  'chat_top_k': 29,
+  'embedding_num_ctx': 1921,
+  'embedding_repeat_penalty': 1.078007330087043,
+  'embedding_temperature': 0.9178099681969293,
+  'embedding_top_k': 10,
+})
+",0.2812041583440641,0.10833333333333334,0.1186728956962662,0.39112626926888255,0.3879133809606158,0.2812041583440641,0.0,175.36393880844116,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 67,
+  'CHUNK_SIZE': 279,
+  'Database_type': 3,
+  'RETRIEVER_K': 4,
+  'chat_num_ctx': 5434,
+  'chat_repeat_penalty': 1.0270309444613535,
+  'chat_temperature': 0.02615405290983417,
+  'chat_top_k': 29,
+  'embedding_num_ctx': 1921,
+  'embedding_repeat_penalty': 1.078007330087043,
+  'embedding_temperature': 0.9178099681969293,
+  'embedding_top_k': 10,
+})
+",0.2830180651897098,0.08083333333333334,0.08885962468833579,0.39415749719668614,0.4021190367906539,0.2830180651897098,0.0,173.32434129714966,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 67,
+  'CHUNK_SIZE': 279,
+  'Database_type': 3,
+  'RETRIEVER_K': 4,
+  'chat_num_ctx': 6351,
+  'chat_repeat_penalty': 1.0145511647417702,
+  'chat_temperature': 0.02615405290983417,
+  'chat_top_k': 38,
+  'embedding_num_ctx': 1921,
+  'embedding_repeat_penalty': 1.078007330087043,
+  'embedding_temperature': 0.9178099681969293,
+  'embedding_top_k': 10,
+})
+",0.28189272251555836,0.08083333333333334,0.08885962468833579,0.39415749719668614,0.4038166919887833,0.28189272251555836,0.0,171.98210096359253,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 68,
+  'CHUNK_SIZE': 279,
+  'Database_type': 3,
+  'RETRIEVER_K': 4,
+  'chat_num_ctx': 5342,
+  'chat_repeat_penalty': 1.2030030941914762,
+  'chat_temperature': 0.03857848841894322,
+  'chat_top_k': 10,
+  'embedding_num_ctx': 1921,
+  'embedding_repeat_penalty': 1.078007330087043,
+  'embedding_temperature': 0.9178099681969293,
+  'embedding_top_k': 12,
+})
+",0.2705247811544595,0.12333333333333332,0.12216656893634421,0.3921080679971955,0.3180708511770324,0.2705247811544595,0.0,183.69559526443481,False,0
+"Configuration(values={
+  'CHUNK_OVERLAP': 68,
+  'CHUNK_SIZE': 279,
+  'Database_type': 3,
+  'RETRIEVER_K': 4,
+  'chat_num_ctx': 4234,
+  'chat_repeat_penalty': 0.9103921587279898,
+  'chat_temperature': 0.3263155584824941,
+  'chat_top_k': 15,
+  'embedding_num_ctx': 1921,
+  'embedding_repeat_penalty': 1.078007330087043,
+  'embedding_temperature': 0.9186247269816825,
+  'embedding_top_k': 10,
+})
+",0.0,0.0,0.0,0.0,0.0,0.0,0.0,3535.2360808849335,True,0

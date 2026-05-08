@@ -1,0 +1,35 @@
+params,mrr,ndcg,context_similarity,total_time,total_tokens,timed_out,stage,global_iteration,timestamp,lexical_ac,answer_precision,answer_f1,avg_similarity
+"CHUNK_SIZE                   932.000000
+CHUNK_OVERLAP                 71.000000
+embedding_temperature          0.747687
+embedding_num_ctx           1572.000000
+embedding_repeat_penalty       1.495685
+embedding_top_k               19.000000
+Database_type                  1.000000
+Name: 0, dtype: float64",0.5948015873015874,0.6872334560463902,0.7683119812141682,90.21608757972717,3114,False,1,1,90.26688504219055,,,,
+"CHUNK_SIZE                   534.000000
+CHUNK_OVERLAP                 83.000000
+embedding_temperature          0.261759
+embedding_num_ctx           1101.000000
+embedding_repeat_penalty       1.147559
+embedding_top_k               74.000000
+Database_type                  3.000000
+Name: 0, dtype: float64",0.6567023809523812,0.7567842886870163,0.8293833679363538,104.99523067474365,3114,False,1,2,195.3134524822235,,,,
+"{'RETRIEVER_K': 6, 'chat_num_ctx': 4352, 'chat_repeat_penalty': 1.2, 'chat_temperature': 0.5, 'chat_top_k': 55}",,,0.8280861866628926,344.1580843925476,465056,False,2,3,539.5763123035431,0.2628625679315698,0.18880940269469249,0.2628625679315698,0.0
+"{'RETRIEVER_K': 1, 'chat_num_ctx': 7881, 'chat_repeat_penalty': 1.171220441404894, 'chat_temperature': 0.006325785410709717, 'chat_top_k': 99}",,,0.7959258514125189,221.79752111434937,108776,False,2,4,761.4726552963257,0.2497555140502223,0.20451176317425135,0.2497555140502223,0.0
+"{'RETRIEVER_K': 1, 'chat_num_ctx': 1304, 'chat_repeat_penalty': 0.9093566831362305, 'chat_temperature': 0.35664596636122214, 'chat_top_k': 10}",,,0.0,1317.4312555789948,0,True,2,5,2078.9040682315826,0.0,,,
+"{'RETRIEVER_K': 1, 'chat_num_ctx': 5894, 'chat_repeat_penalty': 1.4605038880312784, 'chat_temperature': 0.271286317393, 'chat_top_k': 11}",,,0.7959258514125189,91.19374895095825,86973,False,2,6,2170.222387075424,0.23343113472818025,0.16782538825589796,0.23343113472818025,0.0
+"{'RETRIEVER_K': 1, 'chat_num_ctx': 3308, 'chat_repeat_penalty': 1.479506036826426, 'chat_temperature': 0.9542437978885051, 'chat_top_k': 71}",,,0.7959258514125189,99.02801465988159,88316,False,2,7,2269.3485929965973,0.22176752507224362,0.16096624277114435,0.22176752507224362,0.0
+"{'RETRIEVER_K': 2, 'chat_num_ctx': 6699, 'chat_repeat_penalty': 1.2560831664194452, 'chat_temperature': 0.20270059605068236, 'chat_top_k': 73}",,,0.8195662459668388,250.0263156890869,174971,False,2,8,2520.3460655212402,0.2590133089543724,0.19468099515212503,0.2590133089543724,0.0
+"{'RETRIEVER_K': 10, 'chat_num_ctx': 8192, 'chat_repeat_penalty': 1.238057347169524, 'chat_temperature': 0.5494553556171914, 'chat_top_k': 100}",,,0.8293833679363538,284.07656240463257,731646,False,2,9,2805.1172919273376,0.30014292247534824,0.21223018436546812,0.30014292247534824,0.0
+"{'RETRIEVER_K': 10, 'chat_num_ctx': 8192, 'chat_repeat_penalty': 1.2901186532788071, 'chat_temperature': 1.0, 'chat_top_k': 58}",,,0.8293833679363538,226.0626096725464,723962,False,2,10,3031.781618118286,0.29551946713730803,0.206930114964239,0.29551946713730803,0.0
+"{'RETRIEVER_K': 2, 'chat_num_ctx': 3676, 'chat_repeat_penalty': 1.2184424178094508, 'chat_temperature': 0.8076426005508077, 'chat_top_k': 16}",,,0.8195662459668388,206.44549989700317,167863,False,2,11,3238.326245546341,0.26635990432076606,0.19665892597352186,0.26635990432076606,0.0
+"{'RETRIEVER_K': 7, 'chat_num_ctx': 8192, 'chat_repeat_penalty': 1.2348245062769332, 'chat_temperature': 1.0, 'chat_top_k': 100}",,,0.8271037347971828,275.4094111919403,523792,False,2,12,3514.33211684227,0.28346658839293154,0.1970802089825796,0.28346658839293154,0.0
+"CHUNK_SIZE                   381.000000
+CHUNK_OVERLAP                 33.000000
+embedding_temperature          0.769729
+embedding_num_ctx           1964.000000
+embedding_repeat_penalty       0.930948
+embedding_top_k               92.000000
+Database_type                  2.000000
+Name: 0, dtype: float64",0.98,0.9770250367689728,0.9561056079312997,121.68561267852783,3114,False,1,13,3636.076954126358,,,,

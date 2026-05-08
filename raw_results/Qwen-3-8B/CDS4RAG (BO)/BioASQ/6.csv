@@ -1,0 +1,35 @@
+params,mrr,ndcg,context_similarity,total_time,total_tokens,timed_out,stage,global_iteration,timestamp,lexical_ac,answer_precision,answer_f1,avg_similarity
+"CHUNK_SIZE                   607.000000
+CHUNK_OVERLAP                118.000000
+embedding_temperature          0.644303
+embedding_num_ctx           1766.000000
+embedding_repeat_penalty       0.983320
+embedding_top_k               42.000000
+Database_type                  2.000000
+Name: 0, dtype: float64",0.09312301587301587,0.10749224481744363,0.34742576887322,111.43372178077698,2794,False,1,1,111.48790264129639,,,,
+"CHUNK_SIZE                  886.000000
+CHUNK_OVERLAP                35.000000
+embedding_temperature         0.057334
+embedding_num_ctx           632.000000
+embedding_repeat_penalty      1.388431
+embedding_top_k              97.000000
+Database_type                 3.000000
+Name: 0, dtype: float64",0.0,0.0,0.21074061514578715,56.099764585494995,2794,False,1,2,167.64093136787415,,,,
+"{'RETRIEVER_K': 6, 'chat_num_ctx': 4352, 'chat_repeat_penalty': 1.2, 'chat_temperature': 0.5, 'chat_top_k': 55}",,,0.36740316117470023,352.02344608306885,343855,False,2,3,519.7752075195312,0.22714555043686302,0.19723661079088725,0.22714555043686302,0.0
+"{'RETRIEVER_K': 1, 'chat_num_ctx': 6216, 'chat_repeat_penalty': 1.466784241727872, 'chat_temperature': 0.9289424207063338, 'chat_top_k': 15}",,,0.4325673220996727,112.9939284324646,80382,False,2,4,632.8690679073334,0.19922349828571775,0.15491134651712302,0.19922349828571775,0.0
+"{'RETRIEVER_K': 2, 'chat_num_ctx': 4932, 'chat_repeat_penalty': 1.4961734116023646, 'chat_temperature': 0.009891826830629502, 'chat_top_k': 11}",,,0.4093195659851633,109.35770177841187,124244,False,2,5,742.3269639015198,0.19786390947557586,0.1441563972037229,0.19786390947557586,0.0
+"{'RETRIEVER_K': 9, 'chat_num_ctx': 7939, 'chat_repeat_penalty': 1.4472242173042993, 'chat_temperature': 0.28834641270200867, 'chat_top_k': 98}",,,0.3523122239393101,200.34525442123413,463538,False,2,6,942.7723886966705,0.20720952235591697,0.15157109473042885,0.20720952235591697,0.0
+"{'RETRIEVER_K': 2, 'chat_num_ctx': 7318, 'chat_repeat_penalty': 0.9123395511395278, 'chat_temperature': 0.6925684409265809, 'chat_top_k': 87}",,,0.0,1156.7375614643097,0,True,2,7,2099.5101203918457,0.0,,,
+"{'RETRIEVER_K': 6, 'chat_num_ctx': 5123, 'chat_repeat_penalty': 1.286054367381131, 'chat_temperature': 0.4519300678001551, 'chat_top_k': 58}",,,0.36740316117470023,139.27619171142578,311483,False,2,8,2239.3224687576294,0.23046487491364864,0.16908421432457285,0.23046487491364864,0.0
+"{'RETRIEVER_K': 8, 'chat_num_ctx': 3583, 'chat_repeat_penalty': 1.2118136707589144, 'chat_temperature': 0.4591337839624032, 'chat_top_k': 57}",,,0.35598904113140095,352.11662316322327,443735,False,2,9,2591.9947860240936,0.24097293267362652,0.20609257875005707,0.24097293267362652,0.0
+"{'RETRIEVER_K': 10, 'chat_num_ctx': 512, 'chat_repeat_penalty': 1.2594879405578094, 'chat_temperature': 0.40177319811092865, 'chat_top_k': 13}",,,0.34742576887322,363.74214577674866,551875,False,2,10,2956.718181371689,0.18637783234494307,0.1318879131082827,0.18637783234494307,0.0
+"{'RETRIEVER_K': 10, 'chat_num_ctx': 512, 'chat_repeat_penalty': 1.3013415964680826, 'chat_temperature': 0.0, 'chat_top_k': 57}",,,0.34742576887322,392.97039246559143,557023,False,2,11,3350.458188533783,0.18666568241977338,0.13314721812731878,0.18666568241977338,0.0
+"{'RETRIEVER_K': 10, 'chat_num_ctx': 3540, 'chat_repeat_penalty': 1.279502756521829, 'chat_temperature': 0.9416572994136861, 'chat_top_k': 95}",,,0.34742576887322,150.3832757472992,507015,False,2,12,3501.622980594635,0.21840167608790093,0.16161478146988548,0.21840167608790093,0.0
+"CHUNK_SIZE                   699.000000
+CHUNK_OVERLAP                 87.000000
+embedding_temperature          0.940378
+embedding_num_ctx           1522.000000
+embedding_repeat_penalty       1.270308
+embedding_top_k               65.000000
+Database_type                  1.000000
+Name: 0, dtype: float64",0.0,0.0,0.2267184170672134,102.41880869865417,2794,False,1,13,3604.1000344753265,,,,
